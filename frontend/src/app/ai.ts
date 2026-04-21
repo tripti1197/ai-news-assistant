@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
 export class AiService {
 
   private apiUrl = 'https://api-inference.huggingface.co/models/facebook/bart-large-cnn';
-  private apiKey = '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';
+  private apiKey = 'YOUR_API_KEY';
 
   constructor(private http: HttpClient) {}
 
