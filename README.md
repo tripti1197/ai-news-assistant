@@ -38,4 +38,6 @@ ai-news-assistant/
 
 ---
 
+## 📸 Demo
 
+![App Screenshot](./frontend/public/screenshot.png)
